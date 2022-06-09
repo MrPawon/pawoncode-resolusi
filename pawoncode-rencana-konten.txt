@@ -1,7 +1,9 @@
 RENCANA KONTEN PAWONCODE
 - Video Koding Asik
   * HTML untuk anak kecil
+   ^ Belajar JS
+   ^Belajar  Scfriot
    * HTML seru
-   * Belajar Koding Dasar
+   
 - Video Style Web
 - Video Vlog
